@@ -1,4 +1,4 @@
-def presenteer(dictionary,totaal)
+def presenteer(dictionary,totaal):
     for key, value in dictionary.items():
         print(f"{key} : {value} euro")
 
